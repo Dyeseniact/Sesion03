@@ -1,5 +1,22 @@
 .container-header {
     width: 100%;
-    height: 400px;
-    background-color: aqua;
+    height: 100px;
+    background-color: rosybrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.container-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
